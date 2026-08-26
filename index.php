@@ -13,7 +13,7 @@
 
     <!-- ETAPA 1 — botão inicial -->
     <section class="etapa etapa-ativa" id="etapa-inicio">
-        <h1>Enviar arquivo</h1>
+        <h1>Mande seu Arquivo</h1>
         <p class="legenda">Escolha um arquivo e nós envie para virar link compartilhavel.</p>
 
         <button type="button" class="botao" id="btn-upload">Upload</button>

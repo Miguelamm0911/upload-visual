@@ -35,7 +35,7 @@
     <section class="etapa" id="etapa-pronto">
         <div class="selo-ok" aria-hidden="true">✓</div>
         <h1>Envio concluído</h1>
-        <p class="legenda">Qualquer pessoa com o link pode baixar.</p>
+        <p class="legenda">Envie para a pessoa que voce quer compartilhar.</p>
 
         <div class="link">
             <input type="text" id="campo-link" readonly value="">

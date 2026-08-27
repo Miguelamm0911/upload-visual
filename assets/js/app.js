@@ -60,7 +60,7 @@ function animarProgresso(aoConcluir) {
 function iniciarUpload() {
     preenchida.style.width = '0%';
     percentual.textContent = '0%';
-    nomeArquivo.textContent = 'projeto-final.zip';
+    nomeArquivo.textContent = 'ArqUpload.zip';
 
     mostrarEtapa('progresso');
 
